@@ -1,2 +1,1 @@
-#comment
-learn git in professional way
+description of the project
