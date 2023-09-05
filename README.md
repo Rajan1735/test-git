@@ -1,2 +1,2 @@
-#comment for the file
+#comment
 learn git in professional way
